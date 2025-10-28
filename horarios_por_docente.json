@@ -2,9 +2,9 @@
   "Desconocido": [
     {
       "No.": 1,
-      "CAMPUS": NaN,
-      "EDIFICIO": NaN,
-      "SALON": NaN,
+      "CAMPUS": "",
+      "EDIFICIO": "",
+      "SALON": "",
       "ID PROFESOR": "A00000368",
       "APELLIDOS PROFESOR": "BASTIDAS/TULCANAZO",
       "NOMBRES PROFESOR": "GABRIELA",
