@@ -1,21 +1,4 @@
 {
-  "Desconocido": [
+  " ": [
     {
-      "No.": 1,
-      "CAMPUS": "",
-      "EDIFICIO": "",
-      "SALON": "",
-      "ID PROFESOR": "A00000368",
-      "APELLIDOS PROFESOR": "BASTIDAS/TULCANAZO",
-      "NOMBRES PROFESOR": "GABRIELA",
-      "TIPO CONTRATO": "Honorarios",
-      "NIVEL DE ESTUDIO": "Maestría",
-      "REGLA CARGA TRABAJO": "",
-      "NRC": 5227,
-      "SIGLA": "DMDZ4999",
-      "PARALELO": 3.0,
-      "MATERIA": "CLINICA INTEGRAL",
-      "MODALIDAD": "Presencial",
-      "TIPO HORARIO": "PRA",
-      "TIPO SESION": "CLAS",
-      "HORA INICIO": 
+      "No.": 
